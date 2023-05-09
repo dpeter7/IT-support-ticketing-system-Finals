@@ -1,0 +1,50 @@
+Name: 
+Email: 
+Category: Sales
+Message: 
+
+==================================================
+Name: Doyal Jude Peter 
+Email: doyal Peter @
+Category: Sales
+Message: The pc had a blue screen
+
+
+==================================================
+Name: Doyal 
+Email: peter@
+Category: General
+Message: The PC had a blue screen
+
+==================================================
+Name: 
+Email: 
+Category: General
+Message: 
+
+==================================================
+Name: 
+Email: 
+Category: General
+Message: 
+
+==================================================
+Name: 
+Email: 
+Category: 
+Message: 
+
+==================================================
+Name: 
+Email: 
+Category: General
+Message: 
+
+==================================================
+Name: Doyal Jude Peter
+Email: doyalpeter@gmail.com
+Category: Technical
+Message: My laptop is not working because it is showing a blue screen.
+
+==================================================
+
